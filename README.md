@@ -89,6 +89,15 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 
 ---
 
+### Endpoint
+<p>
+<img src="https://img.shields.io/badge/-Windows%20Logs-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+
+---
+
 ## 📚 Currently Learning
 
 - SOC Operations & Incident Response  
@@ -102,9 +111,9 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 
 ## 🎓 Certifications
 
-<p>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</p>
+- <img src="https://img.shields.io/badge/GOOGLE%20CYBERSECURITY%20CERTIFICATE-4285F4?&style=for-the-badge&logo=google&logoColor=white" />  
+
+- <img src="https://img.shields.io/badge/IBM%20CYBERSECURITY%20CERTIFICATE-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
 
 ---
 
