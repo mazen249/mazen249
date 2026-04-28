@@ -33,10 +33,10 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ## 🛡️ Cybersecurity Projects
 
 - 🔍 Network Traffic Analysis (Wireshark)  
-  - <a href="YOUR_PROJECT_LINK">WebStrike Lab – Detecting Web Shell Attack</a>
+  - [WebStrike Lab – Detecting Web Shell Attack](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/Network-Analysis/WebStrike-Lab.md)
 
 - 📊 Log Analysis & SOC Investigation  
-  - <a href="YOUR_PROJECT_LINK">Brute Force Detection Lab</a>
+  - [Brute Force Detection Lab](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/SEIM-Splunk/04-brute-force-attack.md)
 
 - ✉️ Email & Phishing Analysis  
   - <a href="YOUR_PROJECT_LINK">Phishing Email Investigation</a>
@@ -51,6 +51,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ## ⚙️ Skills & Tools
 
 ### 🌐 Network Analysis
+Packet Decapsulation, Protocol Hierarchy Analysis, Detecting Malicious Patterns (Beacons/C2), Traffic Filterin
 <p>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCP/IP-005571?&style=for-the-badge&logoColor=white" />
@@ -59,6 +60,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ---
 
 ### 🖥️ SIEM & Detection
+Writing SPL Queries, Creating Dashboards, Log Parsing, Correlation of Events
 <p>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </p>
@@ -66,6 +68,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ---
 
 ### ✉️ Email Security
+Analyzing Email Headers, Decoding Base64/URL Encoding, Investigating SPF/DKIM/DMARC failures, Malicious Attachment Sandboxing
 <p>
 <img src="https://img.shields.io/badge/-Phishing_Analysis-FF5733?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Header_Analysis-6A5ACD?&style=for-the-badge&logoColor=white" />
@@ -74,6 +77,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ---
 
 ### 🐧 Systems
+Bash Scripting, Log Analysis (grep, awk), Permissions Audit
 <p>
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -82,6 +86,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 ---
 
 ### 💻 Scripting & Data
+Automation of OSINT tasks, Log Parser development.
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=postgresql&logoColor=white" />
