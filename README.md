@@ -37,6 +37,9 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
 
 - 📊 Log Analysis & SOC Investigation  
   - [Brute Force Detection Lab](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/SEIM-Splunk/04-brute-force-attack.md)
+ 
+ - 🛡️ Endpoint Detection & Response (EDR) Implementation
+   - [Wazuh-SOC-Lab: Building a Monitoring Environment with Docker & Kali](رابط_المستودع_الجديد_هنا)
 
 - ✉️ Email & Phishing Analysis  
   - <a href="YOUR_PROJECT_LINK">Phishing Email Investigation</a>
@@ -60,9 +63,11 @@ Packet Decapsulation, Protocol Hierarchy Analysis, Detecting Malicious Patterns 
 ---
 
 ### 🖥️ SIEM & Detection
-Writing SPL Queries, Creating Dashboards, Log Parsing, Correlation of Events
+Writing SPL Queries, Creating Dashboards, Log Parsing, Correlation of Events, **Endpoint Monitoring & XDR**
 <p>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -125,7 +130,8 @@ Automation of OSINT tasks, Log Parser development.
 ## 🚀 Projects Summary
 
 - 🔍 WebStrike Lab (Network Analysis)  
-- 📊 Brute Force Detection (Logs)  
+- 📊 Brute Force Detection (Logs)
+- 🛡️ Wazuh EDR Lab (Docker Deployment & Endpoint Monitoring) 
 - ✉️ Phishing Email Analysis  
 - 🧠 Google Cybersecurity Labs  
 
