@@ -39,7 +39,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and develop strong exper
   - [Brute Force Detection Lab](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/SEIM-Splunk/04-brute-force-attack.md)
  
  - 🛡️ Endpoint Detection & Response (EDR) Implementation
-   - [Wazuh-SOC-Lab: Building a Monitoring Environment with Docker & Kali](رابط_المستودع_الجديد_هنا)
+   - [Wazuh-SOC-Lab: Building a Monitoring Environment with Docker & Kali](Labs/SIEM-Wazuh/Endpoint-Detection-&-Response-(EDR)-Implementation.md)
 
 - ✉️ Email & Phishing Analysis  
   - <a href="YOUR_PROJECT_LINK">Phishing Email Investigation</a>
