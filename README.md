@@ -18,37 +18,42 @@ I enjoy analyzing network traffic, understanding attacker behavior, and contribu
 
 ---
 
-## 🎯 Objective
+## 🎯 Objective & Focus
 
-My goal is to start my career as a SOC Analyst (Tier 1) and develop strong expertise in:
+My goal is to start my career as a **SOC Analyst (Tier 1)** and develop strong expertise in:
 
-- Log Analysis  
-- Threat Detection  
-- Incident Response  
-- Email & Phishing Analysis
-- Value-driven mindset
-
+*   **📊 Log Analysis & Security Monitoring:** Real-time analysis and dashboard engineering using Splunk and Wazuh.
+   
+*   **🔍 Threat Detection:** Identifying malicious TTPs and mapping them to the MITRE ATT&CK framework.
+   
+*   **🕵️ Incident Response:** Performing deep-dive investigations into network traffic and endpoint anomalies.
+   
+*   **📧 Email & Phishing Analysis:** Conducted forensics on email headers and malicious attachments.
+   
+*   **🤖 SOC Automation (SOAR) & AI:** Orchestrating automated response workflows with **Shuffle** and leveraging **AI/LLMs** to accelerate alert triage and reduce MTTR.
+   
+*   **💡 Value-Driven Mindset:** Focused on providing actionable security insights and continuous improvement of defensive postures.
+   
 ---
 
 ## 🛡️ Cybersecurity Projects
+| # | Project Name | Professional Summary  | Link |
+| :--- | :--- | :--- | :--- |
+| **01** | **📊 SIEM Monitoring** | Built Splunk SIEM lab to analyze Windows logs; created custom detection rules for brute force and PowerShell misuse. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Splunk) |
+| **02** | **🛡️ Endpoint (Wazuh)** | Ingested Sysmon logs into Wazuh; developed custom alert rules to detect credential dumping (**Mimikatz**) and persistence. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Wazuh) |
+| **03** | **🤖 SOC Automation** | Orchestrated SOAR workflows using **Docker** to integrate **Wazuh & Shuffle**; automated IOC enrichment via AI/APIs. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Wazuh) |
+| **04** | **🌐 Network Analysis** | Deployed IDS to monitor traffic; analyzed **WebStrike** and malware traffic using Wireshark to identify C2 callbacks. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Network-Analysis) |
+| **05** | **📧 Phishing IR** | Conducted full IR on **PayPal Phishing** scenarios; from email header forensics to malware sandbox detonation. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Phishing-Investigation) |
 
-- 🔍 Network Traffic Analysis (Wireshark)  
-  - [WebStrike Lab – Detecting Web Shell Attack](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/Network-Analysis/WebStrike-Lab.md)
+### 🧠 Google Cybersecurity Professional Labs
+*Hands-on technical assessments completed as part of the Google Cybersecurity Professional Certificate.*
 
-- 📊 Log Analysis & SOC Investigation  
-  - [Brute Force Detection Lab](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/SEIM-Splunk/04-brute-force-attack.md)
- 
- - 🛡️ Endpoint Detection & Response (EDR) Implementation
-   - [Wazuh-SOC-Lab: Building a Monitoring Environment with Docker & Kali](https://github.com/mazen249/SOC-Learning-/blob/main/Labs/SIEM-Wazuh/Endpoint-Detection-&-Response-(EDR)-Implementation.md)
-
-- ✉️ Email & Phishing Analysis  
-  - <a href="YOUR_PROJECT_LINK">Phishing Email Investigation</a>
-
-- 🧠 Google Cybersecurity Labs  
-  - <a href="YOUR_PROJECT_LINK">Security Audit & Risk Assessment</a>  
-  - <a href="YOUR_PROJECT_LINK">SQL Login Investigation</a>  
-  - <a href="YOUR_PROJECT_LINK">Linux Permissions Lab</a>  
-
+| Project | Key Skills & Action Taken | Documentation |
+| :--- | :--- | :--- |
+| **🛡️ Security Audit** | Conducted a comprehensive internal security audit and risk assessment based on NIST CSF standards. | [📂 View Report](YOUR_PROJECT_LINK) |
+| **🔍 SQL Investigation** | Performed database queries to investigate suspicious login attempts and filtered data for incident triage. | [📂 View Lab](YOUR_PROJECT_LINK) |
+| **🐧 Linux Permissions** | Managed file system security by auditing and modifying user permissions to ensure Least Privilege (PoLP). | [📂 View Lab](YOUR_PROJECT_LINK) |
+| **📊 Assets Analysis** | Identified and classified organizational assets to prioritize protection and vulnerability management. | [📂 View Lab](YOUR_PROJECT_LINK) |
 ---
 
 ## ⚙️ Skills & Tools
@@ -68,6 +73,8 @@ Writing SPL Queries, Creating Dashboards, Log Parsing, Correlation of Events, **
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6B00?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AI_Automation-FFD700?&style=for-the-badge" />
 </p>
 
 ---
