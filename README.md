@@ -170,4 +170,6 @@ Using scripting and automation to support system administration, troubleshooting
 
 ## 💡 Career Goal
 
-Become a highly skilled SOC Analyst capable of detecting, analyzing, and responding to real-world cyber threats.
+Build a strong career in **IT Support** by developing practical skills in troubleshooting, Windows and Linux administration.
+
+My long-term goal is to expand my expertise into **Cloud and Cloud Security**, while building on my existing cybersecurity foundation.
