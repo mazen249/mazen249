@@ -61,91 +61,105 @@ I am focused on developing practical skills in:
 
 ## ⚙️ Skills & Tools
 
-### 🌐 Network Analysis
-Packet Decapsulation, Protocol Hierarchy Analysis, Detecting Malicious Patterns (Beacons/C2), Traffic Filterin
+### 🖥️ IT Support & Systems
+
+Troubleshooting Windows and Linux systems, Microsoft 365 administration, user account and permissions management, basic system administration, and technical support.
+
 <p>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-TCP/IP-005571?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Microsoft%20365-D83B01?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-### 🖥️ SIEM & Detection
-Writing SPL Queries, Creating Dashboards, Log Parsing, Correlation of Events, **Endpoint Monitoring & XDR**
+### 🌐 Networking
+
+TCP/IP fundamentals, DNS, DHCP, network troubleshooting, connectivity testing, and traffic analysis.
+
+<p>
+<img src="https://img.shields.io/badge/-TCP%2FIP-005571?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DNS-4285F4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DHCP-4285F4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</p>
+
+---
+
+### ☁️ AWS & Cloud
+
+Building hands-on experience with AWS services, cloud infrastructure, networking, and identity and access management.
+
+<p>
+<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 🛡️ Cybersecurity
+
+Previous hands-on experience in security monitoring, log analysis, network analysis, phishing investigation, and endpoint monitoring.
+
 <p>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6B00?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AI_Automation-FFD700?&style=for-the-badge" />
 </p>
 
 ---
 
-### ✉️ Email Security
-Analyzing Email Headers, Decoding Base64/URL Encoding, Investigating SPF/DKIM/DMARC failures, Malicious Attachment Sandboxing
+### 💻 Scripting & Automation
+
+Using scripting and automation to support system administration, troubleshooting, and security-related tasks.
+
 <p>
-<img src="https://img.shields.io/badge/-Phishing_Analysis-FF5733?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Header_Analysis-6A5ACD?&style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-### 🐧 Systems
-Bash Scripting, Log Analysis (grep, awk), Permissions Audit
-<p>
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
----
-
-### 💻 Scripting & Data
-Automation of OSINT tasks, Log Parser development.
-<p>
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### Endpoint
-<p>
-<img src="https://img.shields.io/badge/-Windows%20Logs-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-
----
-
 ## 📚 Currently Learning
 
-- SOC Operations & Incident Response  
-- Threat Hunting  
-- Advanced Log Analysis  
-- Email Threat Investigation
-- Python for Cybersecurity (Automation & Log Analysis)  
-- AI in Cybersecurity (Security Automation & Threat Detection)
+* IT Support & Troubleshooting
+* Windows Administration
+* Networking & Network Troubleshooting
+* Active Directory
+* PowerShell for IT Automation
+* AWS Cloud Fundamentals
+* Cloud Security *(Future Focus)*
 
 ---
 
 ## 🎓 Certifications
 
-- <img src="https://img.shields.io/badge/GOOGLE%20CYBERSECURITY%20CERTIFICATE-4285F4?&style=for-the-badge&logo=google&logoColor=white" />  
+* <img src="https://img.shields.io/badge/GOOGLE%20CYBERSECURITY%20CERTIFICATE-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/IBM%20CYBERSECURITY%20CERTIFICATE-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
+* <img src="https://img.shields.io/badge/IBM%20CYBERSECURITY%20CERTIFICATE-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
 
 ---
 
 ## 🚀 Projects Summary
 
-- 🔍 WebStrike Lab (Network Analysis)  
-- 📊 Brute Force Detection (Logs)
-- 🛡️ Wazuh EDR Lab (Docker Deployment & Endpoint Monitoring) 
-- ✉️ Phishing Email Analysis  
-- 🧠 Google Cybersecurity Labs  
+### 🖥️ IT Support
 
----
+* 🪟 Windows Troubleshooting Lab
+* 👤 Active Directory Lab
+* 🌐 Network Troubleshooting Lab
+* ⚙️ PowerShell IT Automation
+
+### 🛡️ Previous Cybersecurity
+
+* 📊 SIEM & Log Analysis
+* 🌐 Network Analysis
+* 📧 Phishing Investigation
+* 🤖 SOC Automation
 
 
 ---
