@@ -39,24 +39,28 @@ I am focused on developing practical skills in:
    
 ---
 
-## 🛡️ Cybersecurity Projects
-| # | Project Name | Professional Summary  | Link |
-| :--- | :--- | :--- | :--- |
-| **01** | **📊 SIEM Monitoring** | Built Splunk SIEM lab to analyze Windows logs; created custom detection rules for brute force and PowerShell misuse. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Splunk) |
-| **02** | **🛡️ Endpoint (Wazuh)** | Ingested Sysmon logs into Wazuh; developed custom alert rules to detect credential dumping (**Mimikatz**) and persistence. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Wazuh) |
-| **03** | **🤖 SOC Automation** | Orchestrated SOAR workflows using **Docker** to integrate **Wazuh & Shuffle**; automated IOC enrichment via AI/APIs. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Wazuh) |
-| **04** | **🌐 Network Analysis** | Deployed IDS to monitor traffic; analyzed **WebStrike** and malware traffic using Wireshark to identify C2 callbacks. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Network-Analysis) |
-| **05** | **📧 Phishing IR** | Conducted full IR on **PayPal Phishing** scenarios; from email header forensics to malware sandbox detonation. | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Phishing-Investigation) |
+## 🖥️ IT Support Projects
 
-### 🧠 Google Cybersecurity Professional Labs
-*Hands-on technical assessments completed as part of the Google Cybersecurity Professional Certificate.*
+| #      | Project Name                              | Professional Summary                                                                                                                                | Link                         |
+| :----- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
+| **01** | **🪟 Windows Troubleshooting Lab**        | Practiced diagnosing and resolving common Windows issues, including system configuration, software problems, user accounts, and permissions.        | [📂 View](YOUR_PROJECT_LINK) |
+| **02** | **👤 Active Directory Lab**               | Built and managed a Windows Server Active Directory environment; practiced user and group management, permissions, and basic domain administration. | [📂 View](YOUR_PROJECT_LINK) |
+| **03** | **🌐 Network Troubleshooting Lab**        | Practiced troubleshooting common network connectivity issues using TCP/IP, DNS, DHCP, ping, tracert, and other diagnostic tools.                    | [📂 View](YOUR_PROJECT_LINK) |
+| **04** | **⚙️ PowerShell IT Automation**           | Created PowerShell scripts to automate common IT administration and troubleshooting tasks.                                                          | [📂 View](YOUR_PROJECT_LINK) |
+| **05** | **🖥️ Windows Server Administration Lab** | Practiced basic Windows Server administration, including system configuration, user management, services, and network-related tasks.                | [📂 View](YOUR_PROJECT_LINK) |
 
-| Project | Key Skills & Action Taken | Documentation |
-| :--- | :--- | :--- |
-| **🛡️ Security Audit** | Conducted a comprehensive internal security audit and risk assessment based on NIST CSF standards. | [📂 View Report](YOUR_PROJECT_LINK) |
-| **🔍 SQL Investigation** | Performed database queries to investigate suspicious login attempts and filtered data for incident triage. | [📂 View Lab](YOUR_PROJECT_LINK) |
-| **🐧 Linux Permissions** | Managed file system security by auditing and modifying user permissions to ensure Least Privilege (PoLP). | [📂 View Lab](YOUR_PROJECT_LINK) |
-| **📊 Assets Analysis** | Identified and classified organizational assets to prioritize protection and vulnerability management. | [📂 View Lab](YOUR_PROJECT_LINK) |
+---
+
+## 🛡️ Previous Cybersecurity Projects
+
+| #      | Project                       | Skills & Focus                                                  | Link                                                                                       |
+| :----- | :---------------------------- | :-------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| **01** | **📊 SIEM & Log Analysis**    | Splunk, Wazuh, Windows Logs, Detection Rules                    | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Splunk)            |
+| **02** | **🌐 Network Analysis**       | Wireshark, IDS, Traffic Analysis, C2 Detection                  | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Network-Analysis)       |
+| **03** | **📧 Phishing Investigation** | Email Header Analysis, Malware Investigation, Incident Response | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/Phishing-Investigation) |
+| **04** | **🤖 SOC Automation**         | Wazuh, Shuffle, Docker, AI/API Automation                       | [📂 View](https://github.com/mazen249/SOC-Learning-/tree/main/Labs/SIEM-Wazuh)             |
+
+
 ---
 
 ## ⚙️ Skills & Tools
