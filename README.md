@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazin Arif</h1>
-<h3 align="center">Cybersecurity Student | Future SOC Analyst</h3>
+<h3 align="center">IT Support | Cybersecurity | Future Cloud Security</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mazin-arif-a02286400/">
@@ -11,10 +11,9 @@
 
 ## 🧠 About Me
 
-I am a Mechatronics Engineering student and a self-taught cybersecurity enthusiast, currently working toward becoming a SOC Analyst.
+I am a Mechatronics Engineering student building hands-on skills in IT Support, systems, networking, and cybersecurity. I am currently focused on developing practical IT support skills through hands-on labs and real-world scenarios, while continuing to build on my cybersecurity foundation.
+I enjoy troubleshooting technical issues, working with Windows systems and networks, and exploring how systems can be managed and secured. My long-term goal is to expand my skills into Cloud and Cloud Security.
 
-I focus on developing practical skills in threat detection, log analysis, and incident investigation through hands-on labs and real-world scenarios. 
-I enjoy analyzing network traffic, understanding attacker behavior, and contributing to defending systems against cyber threats.
 
 ---
 
