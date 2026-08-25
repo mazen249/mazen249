@@ -19,19 +19,23 @@ I enjoy troubleshooting technical issues, working with Windows systems and netwo
 
 ## 🎯 Objective & Focus
 
-My goal is to start my career as a **SOC Analyst (Tier 1)** and develop strong expertise in:
+My current goal is to build a strong foundation in **IT Support** through hands-on labs and practical experience, while building on my existing cybersecurity knowledge and expanding my skills in **AWS**.
 
-*   **📊 Log Analysis & Security Monitoring:** Real-time analysis and dashboard engineering using Splunk and Wazuh.
-   
-*   **🔍 Threat Detection:** Identifying malicious TTPs and mapping them to the MITRE ATT&CK framework.
-   
-*   **🕵️ Incident Response:** Performing deep-dive investigations into network traffic and endpoint anomalies.
-   
-*   **📧 Email & Phishing Analysis:** Conducted forensics on email headers and malicious attachments.
-   
-*   **🤖 SOC Automation (SOAR) & AI:** Orchestrating automated response workflows with **Shuffle** and leveraging **AI/LLMs** to accelerate alert triage and reduce MTTR.
-   
-*   **💡 Value-Driven Mindset:** Focused on providing actionable security insights and continuous improvement of defensive postures.
+I am focused on developing practical skills in:
+
+- **🖥️ IT Support & Troubleshooting:** Diagnosing and resolving common hardware, software, operating system, and user-related issues.
+  
+- **🌐 Networking:** Building a strong understanding of TCP/IP, DNS, DHCP, network troubleshooting, and connectivity issues.
+  
+- **🪟 Windows & System Administration:** Working with Windows environments, user accounts, permissions, system configuration, and administration.
+  
+- **⚙️ PowerShell & Automation:** Using PowerShell to automate administrative tasks and improve troubleshooting workflows.
+  
+- **☁️ AWS & Cloud Fundamentals:** Building hands-on experience with AWS services, cloud infrastructure, networking, and identity and access management.
+  
+- **🛡️ Cybersecurity Fundamentals:** Applying my existing cybersecurity knowledge to system administration, troubleshooting, and security-focused scenarios.
+  
+- **🔐 Future Focus — Cloud Security:** Planning to expand my cloud knowledge into cloud security after strengthening my IT and AWS foundation.
    
 ---
 
