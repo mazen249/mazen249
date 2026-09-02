@@ -39,6 +39,18 @@ I am focused on developing practical skills in:
    
 ---
 
+
+
+## ☁️ Cloud & AWS Projects
+
+| # | Project Name | Professional Summary | Link |
+| :--- | :--- | :--- | :--- |
+| **01** | **🌐 AWS VPC Networking Lab** | Built and configured a custom AWS VPC environment with public and private subnets, route tables, and an Internet Gateway. | [📂 View](YOUR_VPC_PROJECT_LINK) |
+| **02** | **🖥️ AWS EC2 Lab** | Deployed an EC2 instance, configured network access using Security Groups, and connected to the instance through SSH. | [📂 View](YOUR_EC2_PROJECT_LINK) |
+| **03** | **🗄️ AWS RDS MySQL + EC2 Lab** | Deployed a MySQL RDS database and established a connection from an EC2 instance using Security Groups and MySQL client tools. | [📂 View](YOUR_RDS_PROJECT_LINK) |
+
+---
+
 ## 🖥️ IT Support Projects
 
 | #      | Project Name                              | Professional Summary                                                                                                                                | Link                         |
@@ -150,6 +162,13 @@ Using scripting and automation to support system administration, troubleshooting
 ---
 
 ## 🚀 Projects Summary
+
+### ☁️ Cloud & AWS
+
+* 🌐 AWS VPC Networking Lab
+* 🖥️ AWS EC2 Lab
+* 🗄️ AWS RDS MySQL + EC2 Lab
+
 
 ### 🖥️ IT Support
 
