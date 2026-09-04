@@ -45,9 +45,9 @@ I am focused on developing practical skills in:
 
 | # | Project Name | Professional Summary | Link |
 | :--- | :--- | :--- | :--- |
-| **01** | **🌐 AWS VPC Networking Lab** | Built and configured a custom AWS VPC environment with public and private subnets, route tables, and an Internet Gateway. | [📂 View](YOUR_VPC_PROJECT_LINK) |
-| **02** | **🖥️ AWS EC2 Lab** | Deployed an EC2 instance, configured network access using Security Groups, and connected to the instance through SSH. | [📂 View](YOUR_EC2_PROJECT_LINK) |
-| **03** | **🗄️ AWS RDS MySQL + EC2 Lab** | Deployed a MySQL RDS database and established a connection from an EC2 instance using Security Groups and MySQL client tools. | [📂 View](YOUR_RDS_PROJECT_LINK) |
+| **01** | **🌐 AWS VPC Networking Lab** | Built and configured a custom AWS VPC environment with public and private subnets, route tables, and an Internet Gateway. | [📂 View]([YOUR_VPC_PROJECT_LINK](https://github.com/mazen249/AWS-Cloud-Labs/blob/main/AWS-Basics-Labs/Networking.md)) |
+| **02** | **🖥️ AWS EC2 Lab** | Deployed an EC2 instance, configured network access using Security Groups, and connected to the instance through SSH. | [📂 View]([YOUR_EC2_PROJECT_LINK](https://github.com/mazen249/AWS-Cloud-Labs/blob/main/AWS-Basics-Labs/EC2.md)) |
+| **03** | **🗄️ AWS RDS MySQL + EC2 Lab** | Deployed a MySQL RDS database and established a connection from an EC2 instance using Security Groups and MySQL client tools. | [📂 View]([YOUR_RDS_PROJECT_LINK](https://github.com/mazen249/AWS-Cloud-Labs/blob/main/AWS-Basics-Labs/RDS-EC2.md)) |
 
 ---
 
@@ -56,7 +56,7 @@ I am focused on developing practical skills in:
 | #      | Project Name                              | Professional Summary                                                                                                                                | Link                         |
 | :----- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
 | **01** | **🪟 Windows Troubleshooting Lab**        | Practiced diagnosing and resolving common Windows issues, including system configuration, software problems, user accounts, and permissions.        | [📂 View](AWS-Basics-Labs/Networking.md) |
-| **02** | **👤 Active Directory Lab**               | Built and managed a Windows Server Active Directory environment; practiced user and group management, permissions, and basic domain administration. | [📂 View](https://github.com/mazen249/IT-Support-Labs/tree/main/Active-Directory) |
+| **02** | **👤 Active Directory Lab**               | Built and managed a Windows Server Active Directory environment; practiced user and group management, permissions, and basic domain administration. | [📂 View](https://github.com/mazen249/IT-Support-Labs/blob/main/Active-Directory/User-Management-Lab.md) |
 | **03** | **🌐 Network Troubleshooting Lab**        | Practiced troubleshooting common network connectivity issues using TCP/IP, DNS, DHCP, ping, tracert, and other diagnostic tools.                    | [📂 View](YOUR_PROJECT_LINK) |
 | **04** | **⚙️ PowerShell IT Automation**           | Created PowerShell scripts to automate common IT administration and troubleshooting tasks.                                                          | [📂 View](YOUR_PROJECT_LINK) |
 | **05** | **🖥️ Windows Server Administration Lab** | Practiced basic Windows Server administration, including system configuration, user management, services, and network-related tasks.                | [📂 View](YOUR_PROJECT_LINK) |
