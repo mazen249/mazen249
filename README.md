@@ -55,11 +55,12 @@ I am focused on developing practical skills in:
 
 | #      | Project Name                              | Professional Summary                                                                                                                                | Link                         |
 | :----- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
-| **01** | **🪟 Windows Troubleshooting Lab**        | Practiced diagnosing and resolving common Windows issues, including system configuration, software problems, user accounts, and permissions.        | [📂 View](AWS-Basics-Labs/Networking.md) |
+| **01** | **🪟 Windows Troubleshooting Lab**        | Practiced diagnosing and resolving common Windows issues, including system configuration, software problems, user accounts, and permissions.        | [📂 View]([AWS-Basics-Labs/Networking.md](https://github.com/mazen249/IT-Support-Labs/tree/main/Troubleshooting)
+) |
 | **02** | **👤 Active Directory Lab**               | Built and managed a Windows Server Active Directory environment; practiced user and group management, permissions, and basic domain administration. | [📂 View](https://github.com/mazen249/IT-Support-Labs/blob/main/Active-Directory/User-Management-Lab.md) |
 | **03** | **🌐 Network Troubleshooting Lab**        | Practiced troubleshooting common network connectivity issues using TCP/IP, DNS, DHCP, ping, tracert, and other diagnostic tools.                    | [📂 View](YOUR_PROJECT_LINK) |
-| **04** | **⚙️ PowerShell IT Automation**           | Created PowerShell scripts to automate common IT administration and troubleshooting tasks.                                                          | [📂 View](YOUR_PROJECT_LINK) |
-| **05** | **🖥️ Windows Server Administration Lab** | Practiced basic Windows Server administration, including system configuration, user management, services, and network-related tasks.                | [📂 View](YOUR_PROJECT_LINK) |
+| **04** | **⚙️ PowerShell IT Automation**           | Created PowerShell scripts to automate common IT administration and troubleshooting tasks.                                                          | [📂 View]([YOUR_PROJECT_LINK](https://github.com/mazen249/IT-Support-Labs/blob/main/PowerShell-Basics-Lab.md)) |
+| **05** | **🖥️ Windows Server Administration Lab** | Practiced basic Windows Server administration, including system configuration, user management, services, and network-related tasks.                | [📂 View]([YOUR_PROJECT_LINK](https://github.com/mazen249/IT-Support-Labs/tree/main/Active-Directory)) |
 
 ---
 
